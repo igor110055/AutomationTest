@@ -1,0 +1,2 @@
+*** Variables ***
+${lbl_to_copy_an_address_cryptocurrency_deposit}    xpath=//android.widget.TextView[@text="To copy an address, tap on the address. To generate new deposit addresses tap the renew icon. When you generate a new deposit address, the old address is still valid for accepting deposits."]

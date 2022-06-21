@@ -1,0 +1,2 @@
+*** Variables ***
+${txt_collateral_haircuts_description}    xpath=//android.widget.TextView[@text="The currencies shown have had their respective haircuts applied to them based on a proprietary model within the risk management team due to current market dynamics. These are reviewed in real-time and can change."]
